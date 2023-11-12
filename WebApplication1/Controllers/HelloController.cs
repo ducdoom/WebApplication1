@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Hello2");
+            return Ok("Hello345");
         }
     }
 }
